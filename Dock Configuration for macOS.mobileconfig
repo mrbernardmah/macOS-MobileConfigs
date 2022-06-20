@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Dock</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.EC02D4C0-AA87-42E3-BF2B-AB746BB796D3.com.apple.dock.8A972CB5-E946-45A1-806C-592BA6EFF5FF</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.dock</string>
+			<key>PayloadUUID</key>
+			<string>8A972CB5-E946-45A1-806C-592BA6EFF5FF</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>static-apps</key>
+			<array>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/System/Applications/Launchpad.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Launchpad</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Launchpad</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Google Chrome.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Google Chrome</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Google Chrome</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Firefox.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Firefox</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Firefox</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Slack.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Slack</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Slack</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/zoom.us.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>zoom.us</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>zoom.us</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Microsoft Outlook.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Microsoft Outlook</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Microsoft Outlook</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Microsoft Word.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Microsoft Word</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Microsoft Word</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Microsoft Excel.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Microsoft Excel</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Microsoft Excel</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/System/Applications/System Preferences.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>System Preferences</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>System Preferences</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+			</array>
+			<key>tilesize</key>
+			<integer>64</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Dock Configuration for macOS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.EC02D4C0-AA87-42E3-BF2B-AB746BB796D3</string>
+	<key>PayloadOrganization</key>
+	<string>Arkose Labs</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EC02D4C0-AA87-42E3-BF2B-AB746BB796D3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Microsoft Defender Advanced Threat Protection settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Defender for Endpoint configuration settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.wdav</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.wdav</string>
+			<key>PayloadUUID</key>
+			<string>99DBC2BC-3B3A-46A2-A413-C8F9BB9A7295</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>antivirusEngine</key>
+			<dict>
+				<key>enableRealTimeProtection</key>
+				<true/>
+				<key>exclusions</key>
+				<array/>
+				<key>exclusionsMergePolicy</key>
+				<string>admin_only</string>
+				<key>passiveMode</key>
+				<false/>
+				<key>threatTypeSettings</key>
+				<array>
+					<dict>
+						<key>key</key>
+						<string>potentially_unwanted_application</string>
+						<key>value</key>
+						<string>block</string>
+					</dict>
+					<dict>
+						<key>key</key>
+						<string>archive_bomb</string>
+						<key>value</key>
+						<string>audit</string>
+					</dict>
+				</array>
+				<key>threatTypeSettingsMergePolicy</key>
+				<string>merge</string>
+			</dict>
+			<key>cloudService</key>
+			<dict>
+				<key>diagnosticLevel</key>
+				<string>required</string>
+				<key>enabled</key>
+				<true/>
+			</dict>
+			<key>userInterface</key>
+			<dict/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Microsoft Defender for Endpoint configuration settings</string>
+	<key>PayloadDisplayName</key>
+	<string>Microsoft Defender for Endpoint settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.microsoft.wdav</string>
+	<key>PayloadOrganization</key>
+	<string>Microsoft</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C4E6A782-0C8D-44AB-A025-EB893987A295</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

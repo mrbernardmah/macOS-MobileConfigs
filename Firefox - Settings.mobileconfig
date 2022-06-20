@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AppAutoUpdate</key>
+			<true/>
+			<key>BlockAboutSupport</key>
+			<true/>
+			<key>DisableTelemetry</key>
+			<true/>
+			<key>EnterprisePoliciesEnabled</key>
+			<true/>
+			<key>HardwareAcceleration</key>
+			<false/>
+			<key>Homepage</key>
+			<dict>
+				<key>URL</key>
+				<string>https://www.google.com/</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Firefox</string>
+			<key>PayloadIdentifier</key>
+			<string>uk.co.daz-wallace.4D77B93B-DD1C-4A1E-888D-066E275B74AF.org.mozilla.firefox.F9AF85EB-9232-4B87-89DA-A399CC25D2E6</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>org.mozilla.firefox</string>
+			<key>PayloadUUID</key>
+			<string>F9AF85EB-9232-4B87-89DA-A399CC25D2E6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Firefox - Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>uk.co.daz-wallace.4D77B93B-DD1C-4A1E-888D-066E275B74AF</string>
+	<key>PayloadOrganization</key>
+	<string>Arkose Labs</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4D77B93B-DD1C-4A1E-888D-066E275B74AF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DefaultsToLocalOpenSave</key>
+			<true/>
+			<key>InstallAutoUpdate</key>
+			<true/>
+			<key>InstallExcel</key>
+			<true/>
+			<key>InstallOneDrive</key>
+			<false/>
+			<key>InstallOneNote</key>
+			<false/>
+			<key>InstallOutlook</key>
+			<true/>
+			<key>InstallPowerPoint</key>
+			<true/>
+			<key>InstallTeams</key>
+			<false/>
+			<key>InstallWord</key>
+			<true/>
+			<key>OfficeAutoSignIn</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Microsoft Office settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Office</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.office.c12e572d-4cb4-4441-8fd5-c7fa776efc00</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.office</string>
+			<key>PayloadUUID</key>
+			<string>c12e572d-4cb4-4441-8fd5-c7fa776efc00</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ShowWhatsNewOnLaunch</key>
+			<false/>
+			<key>VisualBasicMacroExecutionState</key>
+			<string>DisabledWithWarnings</string>
+		</dict>
+		<dict>
+			<key>Applications</key>
+			<dict>
+				<key>/Applications/Microsoft Excel.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>XCEL2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Applications/Microsoft OneNote.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>ONMC2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Applications/Microsoft Outlook.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>OPIM2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Applications/Microsoft PowerPoint.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>PPT32019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Applications/Microsoft Remote Desktop.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>MSRD10</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Applications/Microsoft Teams.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>TEAM01</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Applications/Microsoft Word.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>MSWD2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Applications/OneDrive.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>ONDR18</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+				<key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>MSau04</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>ChannelName</key>
+			<string>Production</string>
+			<key>ExtendedLogging</key>
+			<true/>
+			<key>HowToCheck</key>
+			<string>AutomaticDownload</string>
+			<key>PayloadDescription</key>
+			<string>Configures Microsoft AutoUpdate settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft AutoUpdate</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.autoupdate2.F867698F-986D-497C-BD7C-10C77FDA105B</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.autoupdate2</string>
+			<key>PayloadUUID</key>
+			<string>F867698F-986D-497C-BD7C-10C77FDA105B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>StartDaemonOnAppLaunch</key>
+			<true/>
+			<key>UpdateCheckFrequency</key>
+			<integer>720</integer>
+			<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+			<integer>3</integer>
+			<key>UpdateDeadline.StartAutomaticUpdates</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Deploy W/X/P/OL &amp; Configure update settings</string>
+	<key>PayloadDisplayName</key>
+	<string>MS updates &amp; Deploy</string>
+	<key>PayloadIdentifier</key>
+	<string>com.microsoft.office.blocker</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>564751FA-5191-4343-8E3C-DEEBDB70CC40</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
